@@ -15,7 +15,7 @@
 </div><br>
 
 **Javascript** and **Python** are by far my favourite languages to program in.<br>
-But **Python** was the first programming language that i just fell in love with it,<br>
+But **Python** was the first programming language that i just fell in love with,<br>
 pretty weird right? 😜😂
 <br>
 
